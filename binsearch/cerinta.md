@@ -74,7 +74,7 @@ binsearch.out
 
 ⸻
 
-Indicații de rezolvare
+<h2>Indicații de rezolvare</h2>
 
 Problema se rezolva cu ajutorul cautarii binare (este si in titlu), complexitatea algoritmului fiind O(log n). Eu am folosit cautarea binara din STL, iar rezolvarea mea este <a href = "https://pastebin.com/Ff5wunr1">aici</a>.
 
@@ -82,7 +82,7 @@ Vezi <a href = "https://www.pbinfo.ro/articole/3633/cautarea-binara">cautarea bi
 
 ⸻
 
-Exercitii similare (le-am pus crescator in functie de dificultate):
+<h2>Exercitii similare (le-am pus crescator in functie de dificultate):</h2>
 
 <ol>
     <li><a href="https://www.pbinfo.ro/probleme/508/cautare-binara">Problema #508 de pe pbinfo.ro (Cautare Binara)</a></li>
